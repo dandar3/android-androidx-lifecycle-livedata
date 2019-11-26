@@ -14,7 +14,7 @@ https://maven.google.com/androidx/lifecycle/lifecycle-livedata/2.0.0/lifecycle-l
 - https://developer.android.com/jetpack/androidx/releases/lifecycle
 
 **SVN checkout:**
-null- _File > Import... > Team > Team Project Set > URL:_<br/>
+- _File > Import... > Team > Team Project Set > URL:_<br/>
   https://raw.githubusercontent.com/dandar3/android-androidx-lifecycle-livedata/2.0.0/.projectset
 - _File > Import... > SVN > Project from SVN > Create a new repository location > URL:_<br/>
   https://github.com/dandar3/android-androidx-lifecycle-livedata/tags/2.0.0
