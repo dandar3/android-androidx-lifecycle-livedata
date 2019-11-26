@@ -5,12 +5,13 @@ https://maven.google.com/androidx/versionedparcelable/versionedparcelable/1.0.0/
 
 **Requires:**
 - `Android 9 (API 28) SDK Platform`
-- [dandar3/android-androidx-annotation](https://github.com/dandar3/android-androidx-annotation/tree/1.0.0)
-- [dandar3/android-androidx-collection](https://github.com/dandar3/android-androidx-collection/tree/1.0.0)
+- [dandar3/android-androidx-arch-core-common](https://github.com/dandar3/android-androidx-arch-core-common/tree/2.0.0)
+- [dandar3/android-androidx-arch-core-runtime](https://github.com/dandar3/android-androidx-arch-core-runtime/tree/2.0.0)
+- [dandar3/android-androidx-lifecycle-livedata-core](https://github.com/dandar3/android-androidx-lifecycle-livedata-core/tree/2.0.0)
 
 **References:**
 - https://developer.android.com/jetpack
-- https://developer.android.com/jetpack/androidx/releases/versionedparcelable
+- https://developer.android.com/jetpack/androidx/releases/lifecycle
 
 **SVN checkout:**
 - _File > Import... > Team > Team Project Set > URL:_<br/>
